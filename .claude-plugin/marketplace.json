@@ -1,0 +1,14 @@
+{
+  "name": "aaronator1-plugins",
+  "description": "Claude Code plugins by Aaron Smith.",
+  "owner": {
+    "name": "Aaron Smith"
+  },
+  "plugins": [
+    {
+      "name": "expert-panel",
+      "source": "./plugins/expert-panel",
+      "description": "Review a product's UI with a panel of domain experts you choose, and add experts of your own."
+    }
+  ]
+}
