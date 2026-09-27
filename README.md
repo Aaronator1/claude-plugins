@@ -29,7 +29,7 @@ Each expert is one file in [`plugins/expert-panel/experts/`](plugins/expert-pane
 - `billing`: billing expert (claims and coding)
 - `collections`: collections expert (A/R, underpayments, denials, posting, patient balances)
 - `ux-designer`: UI/UX design expert
-- `copy-expert`: Interface copy expert (RCM operations software)
+- `copy-expert`: interface copy expert (RCM operations software)
 
 ### Your own experts
 
