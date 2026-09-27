@@ -1,7 +1,7 @@
 {
   "name": "expert-panel",
   "displayName": "Expert panel",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Review a product's UI with a panel of domain experts you choose. Ships with five revenue cycle experts; add your own with /expert-panel:new-expert.",
   "author": { "name": "Aaron Smith" }
 }
