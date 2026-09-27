@@ -11,8 +11,6 @@ In Claude Code:
 /plugin install expert-panel@aaronator1-plugins
 ```
 
-The repository is private, so you need read access to it and a GitHub sign-in that Git can use (for example `gh auth login`).
-
 ## expert-panel
 
 A read-only review of a product's UI by a panel of domain experts you choose. Each expert is its own agent, and they review in parallel. You get one merged report: verdicts, findings by severity, disagreements, and what to fix first.
